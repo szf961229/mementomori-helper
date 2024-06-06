@@ -1,4 +1,4 @@
-﻿[ [Zh](readme.md) | [En](readme.en.md) ]
+                                                                                                                                                                                                                                                                                                                              ﻿[ [Zh](readme.md) | [En](readme.en.md) ]
 
 # MementoMori 游戏助手
 
